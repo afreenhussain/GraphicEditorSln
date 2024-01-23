@@ -1,0 +1,13 @@
+{
+ "shapes": [
+         {
+             "type": "circle",
+             "center": "0,0",
+             "radius": 55.0,
+             "filled": false,
+             "color": "127; 255; 0; 0"
+             
+         }
+     ]   
+
+}

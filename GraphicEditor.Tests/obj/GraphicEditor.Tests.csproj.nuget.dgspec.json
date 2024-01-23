@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\afree\\source\\repos\\GraphicEditor\\GraphicEditor.Tests\\GraphicEditor.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\afree\\source\\repos\\GraphicEditor\\GraphicEditor.BAL\\GraphicEditor.BAL.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\afree\\source\\repos\\GraphicEditor\\GraphicEditor.BAL\\GraphicEditor.BAL.csproj",
+        "projectName": "GraphicEditor.BAL",
+        "projectPath": "C:\\Users\\afree\\source\\repos\\GraphicEditor\\GraphicEditor.BAL\\GraphicEditor.BAL.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\afree\\source\\repos\\GraphicEditor\\GraphicEditor.Tests\\GraphicEditor.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\afree\\source\\repos\\GraphicEditor\\GraphicEditor.Tests\\GraphicEditor.Tests.csproj",
+        "projectName": "GraphicEditor.Tests",
+        "projectPath": "C:\\Users\\afree\\source\\repos\\GraphicEditor\\GraphicEditor.Tests\\GraphicEditor.Tests.csproj",
+        "packagesPath": "C:\\Users\\afree\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\afree\\source\\repos\\GraphicEditor\\GraphicEditor.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\afree\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {
+              "C:\\Users\\afree\\source\\repos\\GraphicEditor\\GraphicEditor.BAL\\GraphicEditor.BAL.csproj": {
+                "projectPath": "C:\\Users\\afree\\source\\repos\\GraphicEditor\\GraphicEditor.BAL\\GraphicEditor.BAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

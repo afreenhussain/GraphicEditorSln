@@ -1,0 +1,15 @@
+{
+ "shapes": [
+        {
+          "type": "triangle",
+          "filled": false,
+          "color": "127; 0; 255; 0",
+          "vertices": [
+            "140,20",
+            "0,20",
+            "-140,-20"
+          ]
+        }
+     ]   
+
+}

@@ -1,0 +1,41 @@
+{
+ "shapes": [
+     
+         {
+             "type": "triangle",
+             "filled": false,
+             "color": "127; 0; 255; 0",
+             "vertices": [
+                 "140,20",
+                  "0,20",
+		              "-70,-20"	
+              ]
+         },
+         {
+             "type": "circle",
+             "center": "0,0",
+             "radius": 55.0,
+             "filled": false,
+             "color": "127; 255; 0; 0"
+             
+         },
+         {
+            "type": "line",
+            "lines": [
+		            "0,0 ; 550,0",
+		            "0,0 ; 200,150",
+                "-10,100 ; 30,40"                                 
+             ],
+            "color": "127; 255; 255; 0"
+         },
+         {
+             "type": "circle",
+             "center": "30,30",
+             "radius": 20,
+             "filled": false,
+             "color": "127; 255; 0; 0"             
+         }
+     
+     ]   
+
+}
